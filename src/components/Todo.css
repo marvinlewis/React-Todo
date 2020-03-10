@@ -1,0 +1,7 @@
+.item {
+    border: black 2px solid
+}
+
+.itemcompleted {
+    border: red 2px solid;
+}
